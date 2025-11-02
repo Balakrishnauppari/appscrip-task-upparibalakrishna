@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
+## 
+https://690644e207e920c0f4c49cd3--appscrip-task-1.netlify.app/
+
 ```bash
 npm run dev
 # or
